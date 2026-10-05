@@ -13,6 +13,30 @@ Backend & AI Systems
 * 🌱 Currently exploring Agentic AI, vector search, Retrieval-Augmented Generation (RAG) architecture, and natural language processing[cite: 1, 2].
 * 👯 Open to collaboration on innovative software solutions and determining user requirements[cite: 1].
 
+## Technical skills
+
+**Front-end technologies:**<br>
+<!-- React with the wordmark underneath -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
+<!-- Next.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />
+<!-- Tailwind CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" />
+<!-- TypeScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+
+<br><br>
+
+**Tools:**<br>
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+<!-- Postman -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
+<!-- Linux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+<!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
+
 Cloud, Architecture & Tools (light touch)
 
 * ☁️ Familiar with AWS Basics, Linux, and containerized software systems using Docker[cite: 1, 2].
