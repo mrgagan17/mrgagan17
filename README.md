@@ -1,4 +1,4 @@
-##Hi there, I'm Gagan M R 👋 Welcome to my GitHub![cite: 1]
+# Hi there, I'm Gagan M R 👋 Welcome to my GitHub!
 
 About Me
 
